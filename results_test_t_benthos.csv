@@ -1,0 +1,33 @@
+Group;t_stat;p_value;signif_code;Island;Mean;SD;SE;Time
+Algal_turf;-0.211;0.833; ;ESC;38.52;29.92;6.42;Current
+Algal_turf;-0.211;0.833; ;ESC;33.11;21.2;2.76;Previous
+Algal_turf;0.645;0.52; ;TRE;41.56;28.03;6.93;Current
+Algal_turf;0.645;0.52; ;TRE;42.06;24.65;2.25;Previous
+Enc_calcar;0.568;0.571; ;ESC;20.47;25;3.41;Current
+Enc_calcar;0.568;0.571; ;ESC;13.17;21.74;2.83;Previous
+Enc_calcar;-0.11;0.913; ;TRE;6.94;12.01;1.16;Current
+Enc_calcar;-0.11;0.913; ;TRE;3.83;10.52;0.96;Previous
+Macroalgae;1.464;0.146; ;ESC;16.48;21.58;2.75;Current
+Macroalgae;1.464;0.146; ;ESC;8.82;17.82;2.32;Previous
+Macroalgae;5.785;<0.001;***;TRE;27.32;25.21;4.55;Current
+Macroalgae;5.785;<0.001;***;TRE;8.97;18.73;1.71;Previous
+Mass_corals;1.312;0.193; ;ESC;1.39;3.68;0.23;Current
+Mass_corals;1.312;0.193; ;ESC;0.34;1.15;0.15;Previous
+Mass_corals;-5.096;<0.001;***;TRE;0;0;0;Current
+Mass_corals;-5.096;<0.001;***;TRE;2.06;5.48;0.5;Previous
+Milleporids;-1.762;0.081;.;ESC;2.13;8.92;0.36;Current
+Milleporids;-1.762;0.081;.;ESC;2.71;4.99;0.65;Previous
+Milleporids;-5.756;<0.001;***;TRE;0;0;0;Current
+Milleporids;-5.756;<0.001;***;TRE;4.89;11.28;1.03;Previous
+Octocorals;-2.65;0.009;**;ESC;6.76;9.61;1.13;Current
+Octocorals;-2.65;0.009;**;ESC;10.23;8.68;1.13;Previous
+Octocorals;-2.685;0.008;**;TRE;6.38;11.96;1.06;Current
+Octocorals;-2.685;0.008;**;TRE;10.11;10.63;0.97;Previous
+Sponges;-5.674;<0.001;***;ESC;2.03;3.21;0.34;Current
+Sponges;-5.674;<0.001;***;ESC;7.06;9.14;1.19;Previous
+Sponges;-2.598;0.01;*;TRE;2.5;5.12;0.42;Current
+Sponges;-2.598;0.01;*;TRE;3.03;10.52;0.96;Previous
+Zoanthids;-3.517;0.001;**;ESC;0.19;1.12;0.03;Current
+Zoanthids;-3.517;0.001;**;ESC;0.23;1.77;0.23;Previous
+Zoanthids;-4.173;<0.001;***;TRE;4.17;18.42;0.7;Current
+Zoanthids;-4.173;<0.001;***;TRE;12.94;16.76;1.53;Previous

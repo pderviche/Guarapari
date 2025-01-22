@@ -1,0 +1,52 @@
+Family;t_stat;p_value;signif_code;Island
+Acanthuridae;0.366;0.714; ;ESC
+Acanthuridae;-1.371;0.171; ;TRE
+Aulostomidae;-0.808;0.421; ;ESC
+Carangidae;-10.923;<0.001;***;ESC
+Chaetodontidae;-5.733;<0.001;***;ESC
+Chaetodontidae;-2.084;0.038;*;TRE
+Cirrhitidae;-2.041;0.044;*;ESC
+Dactylopteridae;1;0.32; ;ESC
+Diodontidae;1.775;0.077;.;ESC
+Epinephelidae;-2.952;0.003;**;ESC
+Epinephelidae;-4.307;<0.001;***;TRE
+Gobiidae;-8.687;<0.001;***;ESC
+Gobiidae;-9.317;<0.001;***;TRE
+Gramistidae;-2.946;0.004;**;ESC
+Gramistidae;-1.95;0.053;.;TRE
+Grammatidae;0.359;0.72; ;ESC
+Grammatidae;-3.824;<0.001;***;TRE
+Haemulidae;-6.684;<0.001;***;ESC
+Haemulidae;-5.3;<0.001;***;TRE
+Holocentridae;-6.513;<0.001;***;ESC
+Holocentridae;-6.682;<0.001;***;TRE
+Kyphosidae;-4.86;<0.001;***;ESC
+Labridae;-5.844;<0.001;***;ESC
+Labridae;-9.909;<0.001;***;TRE
+Labrisomidae;2.401;0.017;*;TRE
+Lutjanidae;1.703;0.09;.;ESC
+Lutjanidae;-0.7;0.484; ;TRE
+Monacanthidae;-5.217;<0.001;***;ESC
+Monacanthidae;-6.357;<0.001;***;TRE
+Mullidae;0.086;0.932; ;ESC
+Mullidae;2.272;0.025;*;TRE
+Muraenidae ;-1.782;0.076;.;ESC
+Muraenidae ;1.746;0.081;.;TRE
+Ostraciidae;2.224;0.027;*;ESC
+Pomacanthidae;0.249;0.804; ;ESC
+Pomacanthidae;2.529;0.012;*;TRE
+Pomacentridae;0.366;0.714; ;ESC
+Pomacentridae;-0.873;0.383; ;TRE
+Priacanthidae;1.232;0.219; ;TRE
+Sciaenidae;-4.744;<0.001;***;ESC
+Sciaenidae;-6.042;<0.001;***;TRE
+Scorpaenidae;-5.317;<0.001;***;ESC
+Scorpaenidae;-1.279;0.202; ;TRE
+Serranidae;0.708;0.48; ;ESC
+Serranidae;-2.916;0.004;**;TRE
+Sparidae;-10.452;<0.001;***;ESC
+Sparidae;-5.163;<0.001;***;TRE
+Synodontidae;-2.876;0.004;**;ESC
+Synodontidae;-0.945;0.345; ;TRE
+Tetraodontidae;-2.956;0.003;**;ESC
+Tetraodontidae;-4.495;<0.001;***;TRE
