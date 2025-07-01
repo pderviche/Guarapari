@@ -4862,11 +4862,10 @@ model<-aov(Cmean ~ Island, habitat_complexity)
 summary(model) #Difference, p value =  0.0651 .
 
 #Tests
-shapiro.test(model$residuals) #p-value = 0.06, we can assume the normality
 
 library(car)
 leveneTest(model) #p-value =  0.07, we can assume the homogeneity of variance
-shapiro.test(data$Cmean) #p-value < 0.05, we can NOT assume the normality
+shapiro.test(model$residuals) #p-value < 0.05, we can NOT assume the normality
 TukeyHSD(model, conf.level=.95)
 
 #Non-parametric 
